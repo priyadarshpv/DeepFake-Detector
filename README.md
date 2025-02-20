@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A deep learning-based application to detect deepfake images using **Xception** and **Streamlit**. This project aims to identify synthetic media and ensure authenticity in digital content.
 
@@ -45,7 +44,7 @@ The app is built using **Streamlit**, making it easy to use and deploy.
 - PIL (Pillow)
 - NumPy
 
-### **Preview**
+### **Preview of UI**
 
 Generated Fake images:
 
@@ -137,26 +136,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## Contact
-For questions or feedback, feel free to reach out:
-- **Your Name**  
-- **Email**: your.email@example.com  
-- **GitHub**: [yourusername](https://github.com/yourusername)  
 
-
-
-### **How to Use This README**
-1. Copy the content above into a file named `README.md` in your repository.
-2. Replace placeholders like `yourusername`, `your.email@example.com`, and `LICENSE` with your actual details.
-3. Add a `requirements.txt` file with the necessary dependencies:
-   ```plaintext
-   tensorflow==2.x
-   streamlit==1.x
-   numpy==1.x
-   pillow==10.x
-   ```
-4. Push the changes to GitHub.
-
----
 
 
